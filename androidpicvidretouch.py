@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # Clément BRUGUERA 2021
-# Set back POSIX time files properties for pictures and videos pulled
+# Set back POSIX files' (a,m)times properties for pictures and videos pulled
 # from Android devices by adb. 
 
 import sys
