@@ -1,4 +1,4 @@
-# Photovid_android-retoucher
+# Android-multimedia-touch-me-back (ex Photovid_android-retoucher)
 Python script that "re"touch photos and videos pulled from Android devices with ADB
 
 When doing backups of multimedia files using adb pull, adb doesn't restore files' access, modification and creation times.
